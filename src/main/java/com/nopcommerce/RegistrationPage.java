@@ -5,4 +5,7 @@ package com.nopcommerce;
  */
 public class RegistrationPage {
 
+    public void userShouldBeRegisteredSuccessfully(){
+
+    }
 }
